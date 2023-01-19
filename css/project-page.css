@@ -1,0 +1,10 @@
+.project-details{
+    max-width: 865px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.project-details__cover{
+    
+}
