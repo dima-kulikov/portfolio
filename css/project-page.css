@@ -41,3 +41,9 @@
     position: relative;
     top: 1px;
 }
+@media (max-width: 620px) {
+    .project-details__desc {
+        margin-bottom: 20px;
+        font-size: 22px;
+    }
+}
