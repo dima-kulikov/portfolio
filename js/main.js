@@ -16,7 +16,7 @@ if(localStorage.getItem('darkMode') == 'dark'){
     btnDarkMode.classList.add('dark-mode-btn--active');
     body.classList.add('dark');
 }
-else if(localStorage.getItem('darkMode') == 'light')){
+else if(localStorage.getItem('darkMode') == 'light'){
     btnDarkMode.classList.remove('dark-mode-btn--active');
     body.classList.remove('dark');
 }
