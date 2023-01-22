@@ -32,6 +32,7 @@
     font-size: 16px;
     line-height: 24px;
     transition: opacity 0.2s ease-in;
+    background-color: var(--white)
     
 }
 .btn-outline:hover{
