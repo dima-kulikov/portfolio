@@ -1,3 +1,5 @@
+
+
 const btnDarkMode = document.querySelector('.dark-mode-btn');
 const body = document.querySelector('body');
 
@@ -49,3 +51,4 @@ btnDarkMode.onclick = () => {
         localStorage.setItem('darkMode', 'light');
     }
 };
+

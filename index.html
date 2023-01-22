@@ -45,8 +45,17 @@
     <main class="section">
         <div class="container">
             <h2 class="title-1">Projects</h2>
-            <ul class="projects">
-                <li class="project">
+
+            <ul class="projects__filter">
+                <li class="projects__filter--item projects__filter--item--active">All projects</li>
+                <li class="projects__filter--item">Landing</li>
+                <li class="projects__filter--item">Commerce</li>
+                <li class="projects__filter--item">React JS</li>
+            </ul>
+
+
+            <ul class="projects" id="projects">
+                <!-- <li class="project">
                     <a href="./project-page.html">
                         <img src="./img/projects/project-01.jpg" alt="project" class="project__img">
                         <h3 class="project__title">Gaming streaming portal</h3>
@@ -71,7 +80,7 @@
                 <li class="project">
                     <img src="./img/projects/project-06.jpg" alt="project" class="project__img">
                     <h3 class="project__title">Gaming community</h3>
-                </li>
+                </li> -->
             </ul>
         </div>
     </main>
@@ -94,6 +103,7 @@
         </div>
     </footer>
 
+    <script type="module" src="./js/projects.js"> </script>
     <script src="./js/main.js"> </script>
 </body>
 
