@@ -311,7 +311,7 @@ body {
     max-width: 700px;
     box-shadow: var(--box-shadow);
     border-radius: 5px;
-    padding: 0 15px;
+    /* padding: 0 15px; */
 }
 .project__modal--close{
     position: absolute;
