@@ -46,6 +46,30 @@ const projectList = [
         filter: "Landing",
         git: 'https://github.com/dima-kulikov/sport-betting',
         site: 'https://dima-kulikov.github.io/sport-betting/build/index.html'
+    },
+    {
+        img: './img/projects/project-07.jpg',
+        title: 'Dashboard',
+        desc: 'html, Gulp, Sass',
+        filter: "Different",
+        git: 'https://github.com/dima-kulikov/dashboard',
+        site: 'https://dima-kulikov.github.io/dashboard/dist/index.html'
+    },
+    {
+        img: './img/projects/project-08.jpg',
+        title: 'Mini test',
+        desc: 'html, Gulp, Sass, JS',
+        filter: "Different",
+        git: 'https://github.com/dima-kulikov/dashboard',
+        site: 'https://dima-kulikov.github.io/knowledge-of-Ukraine/dist/index.html'
+    },
+    {
+        img: './img/projects/project-09.jpg',
+        title: 'car color selection',
+        desc: 'html, Gulp, Sass, JS -- only PC version',
+        filter: "Different",
+        git: 'https://github.com/dima-kulikov/car-selection',
+        site: 'https://dima-kulikov.github.io/car-selection/build/index.html'
     }
 ]
 
