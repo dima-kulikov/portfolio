@@ -29,6 +29,7 @@ font-family: 'Poppins', sans-serif;
     --project-card-bg: var(--white);
     --project-card-text: var(--black);
     --box-shadow: 0px 5px 35px rgba(0, 0, 0, 0.25)
+
 }
 
 .dark {
@@ -50,7 +51,10 @@ body {
     background-color: var(--page-bg);
     color: var(--text-color);
 }
-
+/* img {
+    width: 100%;
+    max-width: 100%;
+} */
 .container {
     padding: 0 15px;
     max-width: 1200px;
@@ -245,9 +249,11 @@ body {
     background-color: var(--project-card-bg);
     box-shadow: var(--box-shadow);
     border-radius: 10px;
+    cursor: pointer;
 }
 .project__img {
     border-radius: 10px;
+    border: 1px solid var(--black);
 }
 .project__title {
     padding: 15px 20px 25px;
@@ -282,6 +288,75 @@ body {
 }
 .projects__filter--item--active{
     background-color: #2e34f3;
+}
+/* модальное окно карточек */
+.project__modal{
+    position: fixed;
+    display: none;
+    flex-direction: column;
+    row-gap: 30px;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: var(--project-card-bg);
+    z-index: 9;
+}
+.project__modal--open{
+    display: flex;
+}
+.project__modal--img{
+    max-width: 700px;
+    box-shadow: var(--box-shadow);
+    border-radius: 5px;
+    padding: 0 15px;
+}
+.project__modal--close{
+    position: absolute;
+    top: 10vh;
+    right: 10vh;
+    width: 50px;
+    height: 50px;
+    /* background-color: #fff; */
+    cursor: pointer;
+   
+}
+.project__modal--close:hover::before{
+    transform: rotate(60deg);
+    background-color: red;
+    
+}
+.project__modal--close:hover::after{
+    transform: rotate(-60deg);
+    background-color: red;
+}
+.project__modal--close::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 50%;
+    width: 2px;
+    background-color: var(--text-color);
+    transform: rotate(50deg);
+    transition: transform .3s;
+}
+.project__modal--close::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 2px;
+    background-color: var(--text-color);
+    transform: rotate(-50deg);
+    transition: transform .3s;
+}
+.project__modal--btn {
+    display: flex;
+    column-gap: 30px;
 }
 /* Content list */
 .content-list {
