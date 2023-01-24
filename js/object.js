@@ -94,6 +94,38 @@ const projectList = [
         filter: "Different",
         git: 'https://github.com/dima-kulikov/parallax',
         site: 'https://dima-kulikov.github.io/parallax/build/index.html'
+    },
+    {
+        img: './img/projects/project-13.jpg',
+        title: 'Product design description',
+        desc: 'html, Gulp, JS,Sass',
+        filter: "Commerce",
+        git: '',
+        site: 'https://dnipro-m.ua/tovar/akkumulyatornaya-otvertka-csd-36x/'
+    },
+    {
+        img: './img/projects/project-14.jpg',
+        title: 'Product design description',
+        desc: 'html, Gulp, JS,Sass',
+        filter: "Commerce",
+        git: '',
+        site: 'https://dnipro-m.ua/tovar/akkumulyatornaya-shlifmashina-sg-12bc-ultra/'
+    },
+    {
+        img: './img/projects/project-15.jpg',
+        title: 'Product design description',
+        desc: 'html, Gulp, JS,Sass',
+        filter: "Commerce",
+        git: '',
+        site: 'https://dnipro-m.ua/tovar/akkumulyatornaya-batareya-k-shurupovertu-bp-240/'
+    },
+    {
+        img: './img/projects/project-16.jpg',
+        title: 'Product design description',
+        desc: 'html, Gulp, JS,Sass',
+        filter: "Commerce",
+        git: '',
+        site: 'https://dnipro-m.ua/tovar/mojka-vysokogo-davleniya-pw-16b-2021/'
     }
 ]
 
