@@ -70,6 +70,30 @@ const projectList = [
         filter: "Different",
         git: 'https://github.com/dima-kulikov/car-selection',
         site: 'https://dima-kulikov.github.io/car-selection/build/index.html'
+    },
+    {
+        img: './img/projects/project-10.jpg',
+        title: 'Internet earnings',
+        desc: 'html, CSS, JS',
+        filter: "Commerce",
+        git: '',
+        site: 'https://rabotu.net/'
+    },
+    {
+        img: './img/projects/project-11.jpg',
+        title: 'Mozgi event',
+        desc: 'html, Gulp, JS, CSS animation(transition/@keyframes)',
+        filter: "Different",
+        git: 'https://github.com/dima-kulikov/mozgi',
+        site: 'https://dima-kulikov.github.io/mozgi/dist/index.html'
+    },
+    {
+        img: './img/projects/project-12.jpg',
+        title: '444',
+        desc: 'html, Gulp, JS, CSS animation(transition/@keyframes)',
+        filter: "Different",
+        git: 'https://github.com/dima-kulikov/parallax',
+        site: 'https://dima-kulikov.github.io/parallax/build/index.html'
     }
 ]
 
