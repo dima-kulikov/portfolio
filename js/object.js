@@ -2,7 +2,7 @@ const projectList = [
     {
         img: './img/projects/project-01.jpg',
         title: 'Cooperation with the military page',
-        desc: 'html, Gulp, Sass, JS, Swiper Slider',
+        desc: 'html, Gulp, Less, JS, Swiper Slider',
         filter: "Commerce",
         git: '',
         site: 'https://dnipro-m.ua/volonteram-zsu/'
@@ -10,7 +10,7 @@ const projectList = [
     {
         img: './img/projects/project-02.jpg',
         title: 'delivery and payment page',
-        desc: 'html, Gulp, Sass, JS',
+        desc: 'html, Gulp, Less, JS',
         filter: "Commerce",
         git: '',
         site: 'https://dnipro-m.ua/dostavka-i-oplata/'
@@ -18,7 +18,7 @@ const projectList = [
     {
         img: './img/projects/project-03.jpg',
         title: 'Black Friday',
-        desc: 'html, Gulp, Sass, JS, CSS animation(transition/@keyframes)',
+        desc: 'html, Gulp, Less, JS, CSS animation(transition/@keyframes)',
         filter: "Commerce",
         git: 'https://github.com/dima-kulikov/Black-friday-DM',
         site: 'https://dima-kulikov.github.io/Black-friday-DM/build/index.html'
@@ -34,7 +34,7 @@ const projectList = [
     {
         img: './img/projects/project-05.jpg',
         title: 'Start UP',
-        desc: 'html, Gulp, Sass, JS',
+        desc: 'html, Gulp, Less, JS',
         filter: "Landing",
         git: 'https://github.com/dima-kulikov/Startup-landing2',
         site: 'https://dima-kulikov.github.io/Startup-landing2/build/index.html'
@@ -50,7 +50,7 @@ const projectList = [
     {
         img: './img/projects/project-07.jpg',
         title: 'Dashboard',
-        desc: 'html, Gulp, Sass',
+        desc: 'html, Gulp, Less',
         filter: "Different",
         git: 'https://github.com/dima-kulikov/dashboard',
         site: 'https://dima-kulikov.github.io/dashboard/dist/index.html'
@@ -58,7 +58,7 @@ const projectList = [
     {
         img: './img/projects/project-08.jpg',
         title: 'Mini test',
-        desc: 'html, Gulp, Sass, JS',
+        desc: 'html, Gulp, Less, JS',
         filter: "Different",
         git: 'https://github.com/dima-kulikov/dashboard',
         site: 'https://dima-kulikov.github.io/knowledge-of-Ukraine/dist/index.html'
@@ -66,7 +66,7 @@ const projectList = [
     {
         img: './img/projects/project-09.jpg',
         title: 'car color selection',
-        desc: 'html, Gulp, Sass, JS -- only PC version',
+        desc: 'html, Gulp, Less, JS -- only PC version',
         filter: "Different",
         git: 'https://github.com/dima-kulikov/car-selection',
         site: 'https://dima-kulikov.github.io/car-selection/build/index.html'
@@ -89,7 +89,7 @@ const projectList = [
     },
     {
         img: './img/projects/project-12.jpg',
-        title: '444',
+        title: 'Animation / parallax',
         desc: 'html, Gulp, JS, CSS animation(transition/@keyframes)',
         filter: "Different",
         git: 'https://github.com/dima-kulikov/parallax',
@@ -98,7 +98,7 @@ const projectList = [
     {
         img: './img/projects/project-13.jpg',
         title: 'Product design description',
-        desc: 'html, Gulp, JS,Sass',
+        desc: 'html, Gulp, JS,Less',
         filter: "Commerce",
         git: '',
         site: 'https://dnipro-m.ua/tovar/akkumulyatornaya-otvertka-csd-36x/'
@@ -106,7 +106,7 @@ const projectList = [
     {
         img: './img/projects/project-14.jpg',
         title: 'Product design description',
-        desc: 'html, Gulp, JS,Sass',
+        desc: 'html, Gulp, JS,Less',
         filter: "Commerce",
         git: '',
         site: 'https://dnipro-m.ua/tovar/akkumulyatornaya-shlifmashina-sg-12bc-ultra/'
@@ -114,7 +114,7 @@ const projectList = [
     {
         img: './img/projects/project-15.jpg',
         title: 'Product design description',
-        desc: 'html, Gulp, JS,Sass',
+        desc: 'html, Gulp, JS,Less',
         filter: "Commerce",
         git: '',
         site: 'https://dnipro-m.ua/tovar/akkumulyatornaya-batareya-k-shurupovertu-bp-240/'
@@ -122,10 +122,18 @@ const projectList = [
     {
         img: './img/projects/project-16.jpg',
         title: 'Product design description',
-        desc: 'html, Gulp, JS,Sass',
+        desc: 'html, Gulp, JS,Less',
         filter: "Commerce",
         git: '',
         site: 'https://dnipro-m.ua/tovar/mojka-vysokogo-davleniya-pw-16b-2021/'
+    },
+    {
+        img: './img/projects/project-17.jpg',
+        title: 'React test SPA page',
+        desc: 'JSX, React JS, react-router-dom, Sass',
+        filter: "React JS",
+        git: 'https://github.com/dima-kulikov/car-site-on-react',
+        site: 'https://github.com/dima-kulikov/car-site-on-react'
     }
 ]
 
