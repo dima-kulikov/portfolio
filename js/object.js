@@ -9,7 +9,7 @@ const projectList = [
     },
     {
         img: './img/projects/project-02.jpg',
-        title: 'delivery and payment page',
+        title: 'Delivery and payment page',
         desc: 'html, Gulp, Less, JS',
         filter: "Commerce",
         git: '',
@@ -65,7 +65,7 @@ const projectList = [
     },
     {
         img: './img/projects/project-09.jpg',
-        title: 'car color selection',
+        title: 'Car color selection',
         desc: 'html, Gulp, Less, JS -- only PC version',
         filter: "Different",
         git: 'https://github.com/dima-kulikov/car-selection',

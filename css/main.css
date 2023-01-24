@@ -385,6 +385,18 @@ body {
     margin-top: 0.5em;
 }
 
+/* certificates__list */
+.certificates__list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 25px;
+    row-gap: 25px;
+}
+.certificates__list img{
+    max-width: 400px;
+    width: 100%;
+}
 /* footer */
 .footer {
     background-color: var(--dark-bg);
