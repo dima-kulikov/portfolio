@@ -143,6 +143,6 @@ const projectList = [
         git: 'https://github.com/dima-kulikov/DM-description-tshirt',
         site: 'https://dima-kulikov.github.io/DM-description-tshirt/dist/index.html'
     }
-]
+];
 
 export default projectList;
