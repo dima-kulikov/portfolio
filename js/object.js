@@ -142,7 +142,15 @@ const projectList = [
         filter: "Commerce",
         git: 'https://github.com/dima-kulikov/DM-description-tshirt',
         site: 'https://dima-kulikov.github.io/DM-description-tshirt/dist/index.html'
+    },
+    {
+        img: './img/projects/project-19.jpg',
+        title: 'Description tshirt',
+        desc: 'html, Gulp, JS,Less  -- all links are specially inactive',
+        filter: "Commerce",
+        git: 'https://github.com/dima-kulikov/foresta',
+        site: 'https://dima-kulikov.github.io/foresta/dist/index.html'
     }
-];
+]
 
 export default projectList;
