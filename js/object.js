@@ -134,6 +134,14 @@ const projectList = [
         filter: "React JS",
         git: 'https://github.com/dima-kulikov/car-site-on-react',
         site: 'https://github.com/dima-kulikov/car-site-on-react'
+    },
+    {
+        img: './img/projects/project-18.jpg',
+        title: 'Description tshirt',
+        desc: 'html, Gulp, JS,Less',
+        filter: "Commerce",
+        git: 'https://github.com/dima-kulikov/DM-description-tshirt',
+        site: 'https://dima-kulikov.github.io/DM-description-tshirt/dist/index.html'
     }
 ]
 
