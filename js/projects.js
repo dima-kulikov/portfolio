@@ -7,8 +7,8 @@ const projectFilterItem = document.querySelectorAll('.projects__filter--item');
 let projectModalClose = document.querySelector('.project__modal--close');
 
 
-alert('hi')
 // функция отрисовывает все блоки
+
 function postAllprojects(obj) {
 const allProjectList = obj.map((el) =>{
     let li = document.createElement('li');

@@ -150,7 +150,7 @@ const projectList = [
         filter: "Commerce",
         git: 'https://github.com/dima-kulikov/foresta',
         site: 'https://dima-kulikov.github.io/foresta/dist/index.html'
-    }
+    },
 ]
 
 export default projectList;
