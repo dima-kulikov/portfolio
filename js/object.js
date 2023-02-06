@@ -153,11 +153,11 @@ const projectList = [
     },
     {
          img: './img/projects/project-20.jpg',
-        title: 'React test SPA page',
+        title: 'Shop cart',
         desc: 'JSX, React JS, react-router-dom, Sass',
         filter: "React JS",
-        git: 'https://github.com/dima-kulikov/car-site-on-react',
-        site: 'https://github.com/dima-kulikov/car-site-on-react'
+        git: 'https://github.com/dima-kulikov/furniture-store-react',
+        site: 'https://dima-kulikov.github.io/furniture-store-react/'
     }
 ]
 
