@@ -150,6 +150,14 @@ const projectList = [
         filter: "Commerce",
         git: 'https://github.com/dima-kulikov/foresta',
         site: 'https://dima-kulikov.github.io/foresta/dist/index.html'
+    },
+    {
+         img: './img/projects/project-20.jpg',
+        title: 'React test SPA page',
+        desc: 'JSX, React JS, react-router-dom, Sass',
+        filter: "React JS",
+        git: 'https://github.com/dima-kulikov/car-site-on-react',
+        site: 'https://github.com/dima-kulikov/car-site-on-react'
     }
 ]
 
