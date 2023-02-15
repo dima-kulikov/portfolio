@@ -158,6 +158,14 @@ const projectList = [
         filter: "React JS",
         git: 'https://github.com/dima-kulikov/furniture-store-react',
         site: 'https://dima-kulikov.github.io/furniture-store-react/'
+    },
+    {
+         img: './img/projects/project-21.jpg',
+        title: 'Intersection Observer',
+        desc: 'html, css, js',
+        filter: "Different",
+        git: 'https://github.com/dima-kulikov/Intersection-Observer',
+        site: 'https://dima-kulikov.github.io/Intersection-Observer/'
     }
 ]
 
