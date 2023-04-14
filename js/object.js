@@ -166,6 +166,14 @@ const projectList = [
         filter: "Different",
         git: 'https://github.com/dima-kulikov/Intersection-Observer',
         site: 'https://dima-kulikov.github.io/Intersection-Observer/'
+    },
+    {
+         img: './img/projects/project-22.jpg',
+        title: 'Modern Interior',
+        desc: 'JSX, React JS, react-router-dom, Sass',
+        filter: "React JS",
+        git: 'https://github.com/dima-kulikov/Landing-Modern-Interior--react',
+        site: 'https://dima-kulikov.github.io/Landing-Modern-Interior--react/'
     }
 ]
 
