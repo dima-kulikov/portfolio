@@ -180,8 +180,8 @@ const projectList = [
        title: 'Simple calculator',
        desc: 'html, css, vue3',
        filter: "VUE 3",
-       git: 'https://github.com/dima-kulikov/Landing-Modern-Interior--react',
-       site: 'https://dima-kulikov.github.io/Landing-Modern-Interior--react/'
+       git: 'https://github.com/dima-kulikov/vue3-calculator',
+       site: 'https://dima-kulikov.github.io/vue3-calculator/'
    }
 ]
 
