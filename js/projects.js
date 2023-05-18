@@ -127,6 +127,13 @@ switch (e.target.innerHTML) {
         e.target.classList.add('projects__filter--item--active');
       break;
 
+    case 'VUE 3':
+        projects.innerHTML = '';
+        postAllprojects(filterItemBtn(e.target.innerHTML));
+        toggleActiveClass();
+        e.target.classList.add('projects__filter--item--active');
+      break;
+
       case 'Different':
         projects.innerHTML = '';
         postAllprojects(filterItemBtn(e.target.innerHTML));

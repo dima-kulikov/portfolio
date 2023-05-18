@@ -174,7 +174,15 @@ const projectList = [
         filter: "React JS",
         git: 'https://github.com/dima-kulikov/Landing-Modern-Interior--react',
         site: 'https://dima-kulikov.github.io/Landing-Modern-Interior--react/'
-    }
+    },
+    {
+        img: './img/projects/project-23.jpg',
+       title: 'Simple calculator',
+       desc: 'html, css, vue3',
+       filter: "VUE 3",
+       git: 'https://github.com/dima-kulikov/Landing-Modern-Interior--react',
+       site: 'https://dima-kulikov.github.io/Landing-Modern-Interior--react/'
+   }
 ]
 
 export default projectList;
