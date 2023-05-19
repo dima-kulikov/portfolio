@@ -182,7 +182,15 @@ const projectList = [
        filter: "VUE 3",
        git: 'https://github.com/dima-kulikov/vue3-calculator',
        site: 'https://dima-kulikov.github.io/vue3-calculator/'
-   }
+   },
+   {
+       img: './img/projects/project-24.jpg',
+      title: 'To do list',
+      desc: 'html, css, vue3',
+      filter: "VUE 3",
+      git: 'https://github.com/dima-kulikov/vue3-todo-list',
+      site: 'https://dima-kulikov.github.io/vue3-todo-list/'
+  }
 ]
 
 export default projectList;
