@@ -190,7 +190,15 @@ const projectList = [
       filter: "VUE 3",
       git: 'https://github.com/dima-kulikov/vue3-todo-list',
       site: 'https://dima-kulikov.github.io/vue3-todo-list/'
-  }
+  },
+  {
+      img: './img/projects/project-25.jpg',
+     title: 'Shape generator',
+     desc: 'html, css, js',
+     filter: "Different",
+     git: 'https://codepen.io/skaizy/pen/rNdXaep',
+     site: 'https://codepen.io/skaizy/full/rNdXaep'
+ }
 ]
 
 export default projectList;
