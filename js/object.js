@@ -127,14 +127,14 @@ const projectList = [
         git: '',
         site: 'https://dnipro-m.ua/tovar/mojka-vysokogo-davleniya-pw-16b-2021/'
     },
-    {
-        img: './img/projects/project-17.jpg',
-        title: 'React test SPA page',
-        desc: 'JSX, React JS, react-router-dom, Sass',
-        filter: "React JS",
-        git: 'https://github.com/dima-kulikov/car-site-on-react',
-        site: 'https://github.com/dima-kulikov/car-site-on-react'
-    },
+    // {
+    //     img: './img/projects/project-17.jpg',
+    //     title: 'React test SPA page',
+    //     desc: 'JSX, React JS, react-router-dom, Sass',
+    //     filter: "React JS",
+    //     git: 'https://github.com/dima-kulikov/car-site-on-react',
+    //     site: 'https://github.com/dima-kulikov/car-site-on-react'
+    // },
     {
         img: './img/projects/project-18.jpg',
         title: 'Description tshirt',
@@ -198,7 +198,15 @@ const projectList = [
      filter: "Different",
      git: 'https://codepen.io/skaizy/pen/rNdXaep',
      site: 'https://codepen.io/skaizy/full/rNdXaep'
- }
+ },
+ {
+     img: './img/projects/project-26.jpg',
+    title: 'V-Twitter',
+    desc: 'html, css, vue3',
+    filter: "VUE 3",
+    git: 'https://github.com/dima-kulikov/vue3-vtwitter',
+    site: 'https://deluxe-truffle-6eca89.netlify.app/'
+}
 ]
 
 export default projectList;
