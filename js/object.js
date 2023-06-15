@@ -176,6 +176,14 @@ const projectList = [
         site: 'https://dima-kulikov.github.io/Landing-Modern-Interior--react/'
     },
     {
+        img: './img/projects/project-27.jpg',
+       title: 'weather app',
+       desc: 'html, css, vue3',
+       filter: "VUE 3",
+       git: 'https://github.com/dima-kulikov/vue3-weather-app',
+       site: 'https://glittery-croquembouche-472acb.netlify.app/'
+    },
+    {
         img: './img/projects/project-23.jpg',
        title: 'Simple calculator',
        desc: 'html, css, vue3',
@@ -206,14 +214,6 @@ const projectList = [
     filter: "VUE 3",
     git: 'https://github.com/dima-kulikov/vue3-vtwitter',
     site: 'https://deluxe-truffle-6eca89.netlify.app/'
-},
-{
-    img: './img/projects/project-27.jpg',
-   title: 'weather app',
-   desc: 'html, css, vue3',
-   filter: "VUE 3",
-   git: 'https://github.com/dima-kulikov/vue3-weather-app',
-   site: 'https://glittery-croquembouche-472acb.netlify.app/'
 }
 ]
 
