@@ -176,6 +176,14 @@ const projectList = [
         site: 'https://dima-kulikov.github.io/Landing-Modern-Interior--react/'
     },
     {
+        img: './img/projects/project-28.jpg',
+       title: 'Shop price list',
+       desc: 'vue3, vite,Composition Api',
+       filter: "VUE 3",
+       git: 'https://github.com/dima-kulikov/vue3-stock-app',
+       site: 'https://zippy-melba-8d6a54.netlify.app/'
+    },
+    {
         img: './img/projects/project-27.jpg',
        title: 'weather app',
        desc: 'html, css, vue3',
@@ -214,14 +222,6 @@ const projectList = [
     filter: "VUE 3",
     git: 'https://github.com/dima-kulikov/vue3-vtwitter',
     site: 'https://deluxe-truffle-6eca89.netlify.app/'
-},
-{
-    img: './img/projects/project-28.jpg',
-   title: 'V-Twitter',
-   desc: 'vue3, vite,Composition Api',
-   filter: "VUE 3",
-   git: 'https://github.com/dima-kulikov/vue3-stock-app',
-   site: 'https://deluxe-truffle-6eca89.netlify.app/'
 }
 ]
 
