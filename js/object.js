@@ -214,6 +214,14 @@ const projectList = [
     filter: "VUE 3",
     git: 'https://github.com/dima-kulikov/vue3-vtwitter',
     site: 'https://deluxe-truffle-6eca89.netlify.app/'
+},
+{
+    img: './img/projects/project-28.jpg',
+   title: 'V-Twitter',
+   desc: 'vue3, vite,Composition Api',
+   filter: "VUE 3",
+   git: 'https://github.com/dima-kulikov/vue3-stock-app',
+   site: 'https://deluxe-truffle-6eca89.netlify.app/'
 }
 ]
 
